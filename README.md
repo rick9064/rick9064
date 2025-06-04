@@ -1,5 +1,5 @@
 # ◤ RICK MISTRI ◢
-### Computer Science Engineer • Android & Full-Stack Developer • Hackathon Winner
+### Computer Science Engineer • Android & Full-Stack Developer
 
 <div align="center">
 
