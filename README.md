@@ -156,7 +156,7 @@ Status: Live Demo Available
 <div align="center">
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7FF?style=for-the-badge&logo=netlify&logoColor=white)](https://relief-bridge-fi9b.vercel.app/user-home)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](YOUR_RELIEF_BRIDGE_GITHUB_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rick9064/Relief-Bridge)
 
 </div>
 
@@ -179,8 +179,8 @@ Status: Live Demo Available
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7FF?style=for-the-badge&logo=netlify&logoColor=white)](YOUR_DSA_MANAGER_DEMO_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](YOUR_DSA_MANAGER_GITHUB_URL)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7FF?style=for-the-badge&logo=netlify&logoColor=white)](https://dsa-algorithm-manager.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rick9064/DSA_Algorithm_Manager)
 
 </div>
 
@@ -203,7 +203,7 @@ Platform: Android
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](YOUR_SOS_APP_GITHUB_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rick9064/SOS-app)
 [![Download APK](https://img.shields.io/badge/Download_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](YOUR_APK_DOWNLOAD_URL)
 
 </div>
@@ -227,8 +227,8 @@ Achievement: Top 5 among 200+ participants
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7FF?style=for-the-badge&logo=netlify&logoColor=white)](YOUR_FAR_AND_AWAY_DEMO_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](YOUR_FAR_AND_AWAY_GITHUB_URL)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7FF?style=for-the-badge&logo=netlify&logoColor=white)](https://far-and-away.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rick9064/Far-and-Away)
 
 </div>```
 
