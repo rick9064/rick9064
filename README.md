@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Rick+Mistri+👋;Android+%26+Full-Stack+Developer;Hackathon+Winner+🏆;CSE+Student+@+Parul+University;Building+the+Future+with+Code+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Rick+Mistri+👋;Android+%26+Full-Stack+Developer;Hackathon+Winner+🏆;CSE+Student+@+Parul+University;Building+the+Future+with+Code+🚀;Code+with+Purpose+Innovate+with+Passion" alt="Typing SVG" />
 </div>
 
 <div align="right">
@@ -342,10 +342,10 @@ rick@terminal:~$ echo $MISSION
 
 <div align="center">
 
-- 🔄 **Enhancing Relief Bridge** with advanced AI features
-- 📱 **New Android Project** focused on community safety
-- 🌐 **Open Source Contributions** to help fellow developers
-- 📚 **Advanced System Design** learning and implementation
+ 🔄 **Enhancing Relief Bridge** with advanced AI features
+ 📱 **New Android Project** focused on community safety
+ 🌐 **Open Source Contributions** to help fellow developers
+ 📚 **Advanced System Design** learning and implementation
 
 </div>
 
@@ -355,10 +355,10 @@ rick@terminal:~$ echo $MISSION
 
 <div align="center">
 
-- 🎵 Music lover who codes better with the right playlist
-- 🏃‍♂️ Enjoys physical games and outdoor activities
-- 🌍 Hodophile- Love to Travel
-- 💡 Always excited about new tech trends and innovations
+ 🎵 Music lover who codes better with the right playlist
+ 🏃‍♂️ Enjoys physical games and outdoor activities
+ 🌍 Hodophile- Love to Travel
+ 💡 Always excited about new tech trends and innovations
 
 </div>
 
@@ -366,11 +366,9 @@ rick@terminal:~$ echo $MISSION
 
 <div align="center">
 
-### 🚀 "Code with Purpose, Innovate with Passion"
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
-</div>
+
+
 
 ---
 
