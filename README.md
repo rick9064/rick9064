@@ -34,8 +34,7 @@
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║  User: Rick Mistri                    Status: ● Online & Building                    ║
 ║  Role: Software Engineer Student      Location: Vadodara, Gujarat 🇮🇳               ║
-║  Institution: Parul University        Graduation: May 2026 🎓                        ║
-║  Performance: CGPA 7.07/10.0         Uptime: 2+ years in development               ║
+           ║  Institution: Parul University        Graduation: May 2026 🎓                ║          
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
