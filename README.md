@@ -155,7 +155,7 @@ Status: Live Demo Available
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7FF?style=for-the-badge&logo=netlify&logoColor=white)]([YOUR_RELIEF_BRIDGE_DEMO_URL](https://relief-bridge-fi9b.vercel.app/user-home))
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7FF?style=for-the-badge&logo=netlify&logoColor=white)]([(https://relief-bridge-fi9b.vercel.app/user-home)])
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](YOUR_RELIEF_BRIDGE_GITHUB_URL)
 
 </div>
