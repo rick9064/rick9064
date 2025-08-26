@@ -246,7 +246,6 @@ Achievement: Top 5 among 200+ participants
 ║  🎯 Participant - ADCET Hackathon Season-II (2024)          ║
 ║  📜 NPTEL Certified - Computer Networks (2024)              ║
 ║  💾 Infosys Certified - Database Management (2023)          ║
-║  ⚛️ React.js Advanced Certification (2024)                  ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
