@@ -1,5 +1,5 @@
 # ◤ RICK MISTRI ◢
-### Computer Science Engineer • Android & Full-Stack Developer
+### Computer Science Engineer • Android & Frontend Developer • UI/UX Designer • Business Development & CRM
 
 <div align="center">
 
